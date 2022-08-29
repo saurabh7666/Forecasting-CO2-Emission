@@ -1,0 +1,1 @@
+streamlit run C:/Users/Admin/Desktop/Group 6 Project/website.py
